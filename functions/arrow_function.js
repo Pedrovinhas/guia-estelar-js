@@ -8,3 +8,4 @@ const sayMyName = (name) => {
 }
 
 sayMyName('Pedro')
+
