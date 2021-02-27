@@ -76,7 +76,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
   <li>Funções construtoras </li><br>
   </ul>
   
-  <li>Manipulando Dados</li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/data-manipulations">Manipulando Dados</a></li><br>
   
   <ul>
   <li>Prototype </li>
@@ -110,7 +110,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
   <li>Precedência dos operadores </li> <br>
   </ul>
   
- <li>Condicionais e Controle de Fluxo </li><br>
+ <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/blob/master/condicionais-e-controle-de-fluxo/script.js">Condicionais e Controle de Fluxo</a> </li><br>
 
  <ul>
  <li>Controle de fluxo da aplicação </li>
