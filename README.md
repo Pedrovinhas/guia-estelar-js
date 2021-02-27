@@ -19,7 +19,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
     <li>JavaScript</li><br>
   </ul>
   
-  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/blob/master/comentarios.js">Primeiros Passos</a></li><br>
+  <a href="https://github.com/Pedrovinhas/guia-estelar-js/blob/master/comentarios.js"><li>Primeiros Passos</li></a><br>
   
   <ul>
     <li>Sintaxe</li> 
