@@ -19,7 +19,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
     <li>JavaScript</li><br>
   </ul>
   
-  <li>Primeiros Passos</li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/blob/master/comentarios.js">Primeiros Passos</a></li><br>
   
   <ul>
     <li>Sintaxe</li> 
@@ -28,7 +28,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
     <li>Comentários</li> <br>
   </ul>
   
-  <li> Tipos de Dados </li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/tipos%20de%20dados">Tipos de Dados</a> </li><br>
    
    <ul>
    <li>Introdução
@@ -41,7 +41,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
    <li>Conclusão</li> <br>
   </ul>
   
-  <li>Variáveis</li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/variaveis">Variáveis</a></li><br>
   
   <ul>  
   <li>Conhecendo as variáveis </li>
@@ -51,7 +51,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
   <li>Nomeando variáveis </li><br>
   </ul> 
   
-  <li>Praticando e Avançando </li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/variaveis">Praticando e Avançando </a> </li><br>
   
   <ul>
   <li>Declaration assignment var </li>
@@ -62,7 +62,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
   <li>Exercícios</li><br>
   </ul>
   
-  <li>Funções</li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/functions">Funções</a></li><br>
   
   <ul>
   <li>Functions </li>
@@ -93,7 +93,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
   <li>Manipulando arrays </li><br>
   </ul>
   
-  <li>Expressões e Operadores </li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/expressions-and-operators">Expressões e Operadores </a> </li><br>
   
   <ul>
   <li>Expressões e operadores </li>
@@ -119,7 +119,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
  <li>Throw e Try/Catch </li><br>
  </ul>
   
-  <li>Estruturas de Repetição </li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/blob/master/estruturas-de-repeticao/scripts.js">Estruturas de Repetição</a> </li><br>
   
   <ul>
   <li>For </li>
@@ -128,7 +128,7 @@ Durante as aulas foram passados tanto assuntos teóricos, quanto exercícios que
   <li>For in </li><br>
   </ul>
   
-  <li>Consolidando com exercícios </li><br>
+  <li><a href="https://github.com/Pedrovinhas/guia-estelar-js/tree/master/exercises">Consolidando com exercícios </a></li><br>
   
   <ul>
   <li>Praticar para aperfeiçoar </li>
